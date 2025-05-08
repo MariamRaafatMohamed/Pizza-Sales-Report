@@ -7,5 +7,5 @@ Summarizes product-level pizza sales performance with KPIs and monthly trends.
 - Total sales and number of orders.
 - Monthly trends in sales volume.
 
-### 📷 Screenshot:
+### Screenshot:
 ![Pizza Sales](./pizza-sales.png)
